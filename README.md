@@ -1,1 +1,1 @@
-# stardew-seasonal-anime-mod-sve
+This is a patch for "Seasonal Outfits - Slightly Cuter Aesthetic for SVE" (https://www.nexusmods.com/stardewvalley/mods/5969) to use with my anime mod compilation based on "Seasonal Outfits - Slightly Cuter Aesthetic" (https://github.com/neyna/stardew-seasonal-anime-mod) to prevent the lastest to overrides portaits and sprites.
